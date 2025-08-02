@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Sobre mim
 
-<!--
-**AliceDzindzik/AliceDzindzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Alice Dzindzik e atualmente estou no 4º semestre de Ciência da Computação. Tenho sólida experiência em Suporte Técnico, com foco em ambiente Windows, redes, segurança da informação, atendimento remoto, manutenção de sistemas e bancos de dados, além de conhecimento em Terminal Server.
 
-Here are some ideas to get you started:
+# 🛠️ Tecnologias e Ferramentas
+💻 PHP, JavaScript, HTML5, CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ MySQL, SQL Server
+
+🔐 Segurança da informação, Regedit, GPO
+
+🖥️ Windows Server, Terminal Server, Active Directory
+
+🧠 Batch Script, PowerShell
+
+🌐 Redes, DNS, compartilhamentos, impressoras
+
+🔧 Suporte remoto, manutenção e troubleshooting
+
+# 🚀 Conhecimentos
+
+**[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,java&theme=light)](https://skillicons.dev)**
